@@ -5,6 +5,6 @@ def jakas_funkcja:
         print("Bingo")
         
     else:
-    print("Błędna liczba)
+    print("Błędna liczba")
     
 jakas_funkcja()
